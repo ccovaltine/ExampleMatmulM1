@@ -1,0 +1,18 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# AscendC/CMake build artifacts
+build/
+*.o
+*.so
+
+# CANN profiling output
+msprof*/
+msopprof*/
+PROF_*/
+OPPROF_*/
+*.bin
+
+# Generated fusion result
+fusion_result.json
